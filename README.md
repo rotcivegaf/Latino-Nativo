@@ -24,6 +24,13 @@
 
 # Deployments
 
-## TODO
+## XDC testnet Chain
 
-Contract Address: [`TODO`](TODO)
+[`xdc76bd832f14a4eb4fcfd1487e0e8f10b7407eabf4`](https://explorer.apothem.network/address/xdc76bd832f14a4eb4fcfd1487e0e8f10b7407eabf4)
+
+## XDAI testnet Chain
+
+[`0x2A955Cd173b851bac5Be79BdC8Cbc5D5a30e1d8d`](https://blockscout.chiadochain.net/address/0x2A955Cd173b851bac5Be79BdC8Cbc5D5a30e1d8d)
+
+## Scroll Alpha Testnet
+[`0x2Ca416EA2F4bb26ff448823EB38e533b60875C81`](https://blockscout.scroll.io/address/0x2Ca416EA2F4bb26ff448823EB38e533b60875C81/contracts#address-tabs)
